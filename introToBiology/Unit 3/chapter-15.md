@@ -50,6 +50,8 @@ A: σ (sigma) — it recognizes the promoter; without it, the core enzyme would 
 
 Why: The core enzyme can synthesize RNA but can't tell a gene from random DNA. σ supplies the specificity by contacting the −10/−35 promoter sequences and melting the DNA to start initiation, then drops off for elongation. Different σ factors recognize different promoter classes, letting one bacterium switch gene programs (heat shock, sporulation).
 
+Image: ![Stuff](./drawings/ProkaryoticPromoter.png)
+
 Q8: The −10 and −35 regions of prokaryotic promoters are called consensus sequences because _____.
 
 A: They are similar (not identical) in all bacterial species — consensus = the most common version of a shared sequence.
