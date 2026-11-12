@@ -129,7 +129,10 @@ Source: [OpenStax Biology 2e](https://openstax.org/books/biology-2e/pages/14-3-d
 
 Q: What is the difference between replication, transcription, and translation?
 
-A: **Replication** — copying the entire DNA molecule before cell division (DNA → DNA). **Transcription** — copying one gene's DNA sequence into mRNA (DNA → RNA), catalyzed by RNA polymerase. **Translation** — decoding the mRNA sequence into a chain of amino acids (RNA → protein), carried out by ribosomes reading codons with tRNAs delivering the matching amino acids.
+A: Differences
+* **Replication** — copying the entire DNA molecule before cell division (DNA → DNA). 
+* **Transcription** — copying one gene's DNA sequence into mRNA (DNA → RNA), catalyzed by RNA polymerase. 
+* **Translation** — decoding the mRNA sequence into a chain of amino acids (RNA → protein), carried out by ribosomes reading codons with tRNAs delivering the matching amino acids.
 
 Why: The three processes are the three arrows of the central dogma, each with its own template, machine, and product: replication duplicates the whole archive, transcription photocopies one gene's instructions, and translation builds the actual working protein from that copy. Same polymer chemistry, different template molecule, enzyme, and output.
 
@@ -141,13 +144,20 @@ Why: Eukaryotic genes are split — the coding information is interrupted by int
 
 Q: Where does each process take place?
 
-A: **Eukaryotes:** replication — nucleus (also mitochondria/chloroplasts); transcription — nucleus; translation — cytoplasm (on free or ER-bound ribosomes). The nucleus/cytoplasm separation means eukaryotic RNA is fully processed (capped, spliced, poly-adenylated) *before* it is ever translated. **Prokaryotes:** all three happen in the cytoplasm (they have no nucleus), and transcription and translation are even coupled — translation begins on an mRNA that is still being transcribed.
+A: **Eukaryotes** vs **Prokaryotes** 
+* **Eukaryotes:** replication — nucleus (also mitochondria/chloroplasts); transcription — nucleus; translation — cytoplasm (on free or ER-bound ribosomes). The nucleus/cytoplasm separation means eukaryotic RNA is fully processed (capped, spliced, poly-adenylated) *before* it is ever translated.
+* **Prokaryotes:** all three happen in the cytoplasm (they have no nucleus), and transcription and translation are even coupled — translation begins on an mRNA that is still being transcribed.
 
 Why: The physical boundary between DNA (nucleus) and ribosomes (cytoplasm) is what gives eukaryotes a processing stage — extra points of regulation and more complex transcripts — at the cost of speed. Prokaryotes trade that complexity for raw speed: no separation, no processing, no delay.
 
 Q: What are the roles of each type of RNA?
 
-A: **mRNA (messenger)** — carries the protein-coding information from DNA to the ribosome; its codons are read during translation. **tRNA (transfer)** — the physical adapter: one end carries a specific amino acid, the other has an anticodon that base-pairs with the matching mRNA codon, so it translates nucleotide language into amino acid language. **rRNA (ribosomal)** — structural and catalytic component of ribosomes; the large subunit's rRNA acts as peptidyl transferase, the ribozyme that actually forms peptide bonds. **snRNA (small nuclear)** — RNA components of snRNPs, which together form the spliceosome that removes introns from pre-mRNA in the nucleus. **miRNA (micro)** — small regulatory RNAs that bind complementary sequences in mRNAs and shut them down (degradation or translational inhibition) — gene regulation after transcription.
+A: Types of **RNA**
+ * **mRNA (messenger)** — carries the protein-coding information from DNA to the ribosome; its codons are read during translation. 
+ * **tRNA (transfer)** — the physical adapter: one end carries a specific amino acid, the other has an anticodon that base-pairs with the matching mRNA codon, so it translates nucleotide language into amino acid language. 
+ * **rRNA (ribosomal)** — structural and catalytic component of ribosomes; the large subunit's rRNA acts as peptidyl transferase, the ribozyme that actually forms peptide bonds. 
+ * **snRNA (small nuclear)** — RNA components of snRNPs, which together form the spliceosome that removes introns from pre-mRNA in the nucleus. 
+ * **miRNA (micro)** — small regulatory RNAs that bind complementary sequences in mRNAs and shut them down (degradation or translational inhibition) — gene regulation after transcription.
 
 Why: Each RNA is a different worker in the same flow of information: mRNA is the message, tRNA is the translator (adapter between the two "languages"), rRNA is the factory machinery (and the catalyst), snRNA is the editing crew, and miRNA is the quality-control/regulatory layer that decides which messages get used at all.
 
@@ -165,7 +175,9 @@ Why: The dogma states which molecules specify which: DNA is the archive, RNA is 
 
 Q: How do eukaryotic and prokaryotic processing of genetic information differ?
 
-A: **Prokaryotes:** transcription and translation happen in the same compartment and are coupled; mRNA is used almost immediately, with little to no processing (no cap, no splicing — bacterial genes usually have no introns; no poly-A tail). **Eukaryotes:** transcription happens in the nucleus, and the pre-mRNA must be processed before translation — a 5′ 7-methylguanosine cap (needed to initiate translation), splicing of introns by the spliceosome, and a 3′ poly-A tail (stability) — then the mature mRNA is exported to the cytoplasm for translation.
+A: Differnces in processing of **prokaryotic** and **eukaryotic** cells
+* **Prokaryotes:** transcription and translation happen in the same compartment and are coupled; mRNA is used almost immediately, with little to no processing (no cap, no splicing — bacterial genes usually have no introns; no poly-A tail). 
+* **Eukaryotes:** transcription happens in the nucleus, and the pre-mRNA must be processed before translation — a 5′ 7-methylguanosine cap (needed to initiate translation), splicing of introns by the spliceosome, and a 3′ poly-A tail (stability) — then the mature mRNA is exported to the cytoplasm for translation.
 
 Why: The presence of a nucleus is the root difference: it separates the transcription machinery from the ribosomes, which creates an obligate processing stage between the two. That stage is extra regulation and more transcript complexity (like alternative splicing) — the price is speed. Prokaryotes skip all of it and translate even unfinished messages.
 
