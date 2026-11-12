@@ -10,7 +10,10 @@ Why: The genotype is the instruction sheet, the phenotype is the finished produc
 
 Q: What are Mendel's three principles?
 
-A: **Principle of Segregation** — the two alleles of a gene separate (segregate) from each other during gamete formation, so each gamete carries only one allele per gene. **Principle of Dominance** — in a heterozygote, one allele (dominant) masks the other (recessive); the dominant trait is what shows in the phenotype. **Principle of Independent Assortment** — genes for different traits sort into gametes independently of each other (a pea's seed color doesn't influence its seed shape), which is what produces the 9:3:3:1 dihybrid ratio.
+A: **Mendel's** threee principles 
+* **Principle of Segregation** — the two alleles of a gene separate (segregate) from each other during gamete formation, so each gamete carries only one allele per gene. 
+* **Principle of Dominance** — in a heterozygote, one allele (dominant) masks the other (recessive); the dominant trait is what shows in the phenotype. 
+* **Principle of Independent Assortment** — genes for different traits sort into gametes independently of each other (a pea's seed color doesn't influence its seed shape), which is what produces the 9:3:3:1 dihybrid ratio.
 
 Why: Each principle describes what physically happens in meiosis: homologous chromosomes (and their alleles) separate in anaphase I (segregation), one allele's product wins in the heterozygote (dominance), and different chromosome pairs align and migrate independently in metaphase I (independent assortment). The laws are Mendel's statistics; meiosis is the mechanism.
 
