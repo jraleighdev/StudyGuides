@@ -20,6 +20,14 @@ A: A testcross crosses an individual with a dominant phenotype but unknown genot
 
 Why: The homozygous recessive partner is the trick — it can only contribute a recessive allele, so every recessive allele in the unknown parent has nowhere to hide: rr offspring are only possible if the unknown parent contributed a recessive allele, proving it was heterozygous.
 
+Example: 
+Punnet square show typical crosses
+
+|     | y   | y   |
+| --- | --- | --- |
+| Y   | Yy  | Yy  |
+| y   | yy  | yy  |
+
 Q: What is the difference between homozygous and heterozygous?
 
 A: Homozygous = both alleles at a gene are the same (RR or rr). Heterozygous = the two alleles differ (Rr). Homozygotes are true-breeding — they produce only one gamete type; heterozygotes produce two.
